@@ -14,6 +14,8 @@ Jsem nadšená junior vývojářka se zaměřením na **PHP**, **Nette** a **už
 ### 📫 Jak mě zastihnout:
 - **LinkedIn:** [linkedin.com/in/marketapekarkova](https://www.linkedin.com/in/marketapekarkova)
 - **Email:** mpekarkova92@gmail.com
+
+---
 *"Building digital experiences where logic meets aesthetics. Because every line of code is a part of a bigger quest."*
 
 ### 🛠️ Tech Stack:
