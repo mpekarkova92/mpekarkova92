@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Markéta! 👋
 
-<!--
-**mpekarkova92/mpekarkova92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jsem nadšená junior vývojářka se zaměřením na **PHP**, **Nette** a **uživatelskou přívětivost (HCI)**. Ráda tvořím věci, které nejen fungují na pozadí, ale také skvěle vypadají a snadno se ovládají.
 
-Here are some ideas to get you started:
+### 🛠️ Co mě baví a co se učím:
+- **Backend:** PHP 8.4 (Nette framework), MySQL (PDO), OOP principy.
+- **Frontend:** HTML5, moderní CSS3 (Flexbox, Grid), základní JavaScript.
+- **Zájmy:** UI/UX design, kybernetická bezpečnost a herní průmysl.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Moje hlavní projekty:
+- **[MyEshop]**: Komplexní řešení v Nette.
+- **[ToDoList]**: Moje první PHP aplikace s důrazem na čisté CRUD operace.
+
+### 📫 Jak mě zastihnout:
+- **LinkedIn:** [linkedin.com/in/marketapekarkova](https://www.linkedin.com/in/marketapekarkova)
+- **Email:** mpekarkova92@gmail.com
+
+---
+*"Kód by měl být psán primárně pro lidi a až druhotně pro stroje."*
+
+![Marketa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpekarkova92&show_icons=true&theme=tokyonight)
+
