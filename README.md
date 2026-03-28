@@ -14,9 +14,18 @@ Jsem nadšená junior vývojářka se zaměřením na **PHP**, **Nette** a **už
 ### 📫 Jak mě zastihnout:
 - **LinkedIn:** [linkedin.com/in/marketapekarkova](https://www.linkedin.com/in/marketapekarkova)
 - **Email:** mpekarkova92@gmail.com
+*"Building digital experiences where logic meets aesthetics. Because every line of code is a part of a bigger quest."*
 
----
-*"Kód by měl být psán primárně pro lidi a až druhotně pro stroje."*
+### 🛠️ Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Nette](https://img.shields.io/badge/Nette-3481BD?style=for-the-badge&logo=nette&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Marketa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpekarkova92&show_icons=true&theme=tokyonight)
+### 📊 Moje GitHub Statistiky
+
+![Marketa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpekarkova92&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpekarkova92&layout=compact&theme=tokyonight&hide_border=true)
 
